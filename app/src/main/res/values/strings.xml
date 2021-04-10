@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PTSGENAP10RPL25</string>
+    <string-array name="names">
+        <item>Budi Santoso</item>
+    </string-array>
+
+    <string-array name="alamat">
+        <item>Jakarta Timur</item>
+    </string-array>
+
+    <string-array name="nohp">
+        <item>081234567890</item>
+    </string-array>
+
+    <string-array name="nik">
+        <item>40272000001</item>
+    </string-array>
+</resources>
